@@ -4,7 +4,7 @@ from src.client.controller import MapDownloader
 
 class Main:
     def __init__(self):
-        # Initialize the Utils class and print logo
+        # Initialize the Utils class
         self.utils = Utils()
 
         # Set logging system handler
